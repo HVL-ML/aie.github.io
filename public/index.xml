@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence Engineering</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Artificial Intelligence Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Aug 2024 14:03:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team</title>
+      <link>http://localhost:1313/team/</link>
+      <pubDate>Mon, 26 Aug 2024 14:03:07 +0200</pubDate>
+      <guid>http://localhost:1313/team/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 26 Aug 2024 14:02:52 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About our group The Artificial Intelligence Engineering Group at the Western Norway University of Applied Sciences explores the synergies between machine learning engineering, decision theory, and data science to develop novel solutions to complex problems.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 26 Aug 2024 14:02:52 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Mon, 26 Aug 2024 14:02:52 +0200</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>We put a strong emphasis on education and skill development. Through our educational activities, we aim to equip students with foundational understanding, critical and analytic skills, and the ability to apply methods and knowledge across disciplines.&#xA;Current and recent courses: DAT158: Machine learning engineering DAT255: Deep learning engineering ADA511: Data-driven engineering ELMED219: Artificial intelligence and computational medicine PCS956: Recent trends in applied machine learning FD28: Artificial intelligence for education DAT801: Machine learning for business development HVL-MMIV-DLN-AI-2022: A hands-on course on artificial intelligence in computational biotechnology and medicine </description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 26 Aug 2024 14:02:52 +0200</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 26 Aug 2024 14:02:52 +0200</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
