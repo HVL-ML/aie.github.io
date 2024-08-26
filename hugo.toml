@@ -1,4 +1,4 @@
-baseURL = 'https://aie.github.io'
+baseURL = 'https://hvl-ml.github.io'
 languageCode = 'en-us'
 title = 'Artificial Intelligence Engineering'
 theme = 'beautifulhugo'
